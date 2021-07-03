@@ -1,4 +1,17 @@
 p{
-    colo:yellow;
+    color:black;
+    background-color:red;
 
+}
+h1{
+    background-color:red;
+}
+h2{
+    color:blue;
+}
+h3{
+    color:blue;
+}
+h4{
+    color:blue;
 }
