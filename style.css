@@ -1,17 +1,51 @@
 p{
-    color:black;
+    color:yellow;
     background-color:red;
+    font-size: 40px;
+    margin:30px;
+    border:solid black 10px;
 
 }
 h1{
-    background-color:red;
+    color:red;
+    background-color:yellow;
+    font-size: 50px;
+    margin:30px;
+    border: solid black 15px;
+    height: 60px;px;
+    width: 550px;px;
+    text-align:center;
+    border-radius:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:2%;
+    border-top-left-radius:8%;
 }
 h2{
     color:blue;
+    background-color: red;
+     font-size:30px;
+    margin:20px;
+    border: solid black 5px;
+    height: 60px;
+    width: 310px;
 }
 h3{
     color:blue;
+    background-color: red;
+     font-size:30px;
+    margin:20px;
+    border: solid black 5px;
+    height: 60px;
+    width: 350px;
+    
 }
 h4{
     color:blue;
+    background-color: red;
+    font-size:30px;
+   margin:20px;
+   border: solid black 5px;
+   height: 80px;
+   width: 750px;
+   padding:0%;
 }
